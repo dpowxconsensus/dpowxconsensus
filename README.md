@@ -1,16 +1,16 @@
-### Hi there 👋
+<h1 align="center">I'm Priyanshu Mishra, and I'd like to welcome you to my page.</h1>
 
-<!--
-**dpowxconsensus/dpowxconsensus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 📈 **Github Stats:**
 
-Here are some ideas to get you started:
+<a href="https://github.com/powxconsensus">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=powxconsensus&show_icons=true&include_all_commits=true&theme=blue-green&count_private=true">
+</a>
+<a href="https://github.com/powxconsensus/github-readme-stats">
+<img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=powxconsensus&layout=Demo&theme=blue-green" />
+</a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 **Link Tree:**
+
+<p align="center">
+<a href="https://www.linkedin.com/in/priyanshu678//" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Priyanshu Mishra" height="40" width="40" /></a>
+<a href="mailto:pm.ejobs.m21@gmail.com" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="Priyanshu Mishra" height="40" width="40" /></a>
